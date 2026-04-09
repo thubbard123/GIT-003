@@ -5,8 +5,8 @@
 ######################################################################################
 
 # MadCap file patterns
-/ProjectOneA/Output
-/ProjectOneA/Analyzer
+# /ProjectOneA/Output
+# /ProjectOneA/Analyzer
 /ProjectTwoB
 /ProjectThreeC
 /FileSync
